@@ -92,7 +92,7 @@ button:active {
     left: 3px;
     bottom:0;
     background-repeat: no-repeat;
-    background-image: url(yellow-cartoon-sun-bgxv9cmmoofz4s7k.gif);
+    background-image: url(54d3ae04cae803cafc21389dfd31fc88.gif);
     background-size: 56px;
     -webkit-transition: .4s;
     transition: .4s;
@@ -103,7 +103,7 @@ button:active {
   }
   
   input:checked + .slider:before { /** bolinha no dark-mode **/
-    background-image: url(https://media.tenor.com/DTIl6DWhrZwAAAAj/moon-spacedoodles.gif);
+    background-image: url(moon-spacedoodles.gif);
     transform: translateX(130px);
     background-repeat: no-repeat;
   }
